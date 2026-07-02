@@ -1,0 +1,363 @@
+<header class="hero">
+
+<div class="overlay">
+
+<h1>Der Zweite Weltkrieg</h1>
+
+<p>Eine interaktive Website über die Ursachen, den Verlauf und die Folgen des Zweiten Weltkriegs (1939–1945)</p>
+
+<a href="#vorher" class="button">Jetzt entdecken</a>
+
+</div>
+
+</header>
+
+<nav>
+
+<a href="#start">Start</a>
+
+<a href="#vorher">Vor dem Krieg</a>
+
+<a href="#krieg">Während des Krieges</a>
+
+<a href="#holocaust">Holocaust</a>
+
+<a href="#nachkrieg">Nach dem Krieg</a>
+
+<a href="#quiz">Quiz</a>
+
+<a href="#quellen">Quellen</a>
+
+</nav>
+
+<main>
+
+<section id="start">
+
+<h2>Willkommen</h2>
+
+<p>
+
+Der Zweite Weltkrieg war der größte militärische Konflikt der Geschichte.
+
+Er dauerte von <strong>1939 bis 1945</strong> und kostete schätzungsweise
+
+<strong>60 bis 70 Millionen Menschen</strong> das Leben.
+
+</p>
+
+<p>
+
+Auf dieser Website erfährst du,
+
+<ul>
+
+<li>wie Europa vor dem Krieg aussah,</li>
+
+<li>warum der Krieg begann,</li>
+
+<li>wie sich der Krieg entwickelte,</li>
+
+<li>welche Folgen er hatte</li>
+
+<li>und warum er bis heute wichtig ist.</li>
+
+</ul>
+
+</p>
+
+<div class="fakten">
+
+<div class="karte">
+
+<h3>📅 Zeitraum</h3>
+
+<p>1939–1945</p>
+
+</div>
+
+<div class="karte">
+
+<h3>🌍 Beteiligte Länder</h3>
+
+<p>Über 60 Staaten</p>
+
+</div>
+
+<div class="karte">
+
+<h3>👥 Opfer</h3>
+
+<p>ca. 60–70 Millionen Menschen</p>
+
+</div>
+
+</div>
+
+</section>
+
+<section id="vorher">
+
+<h2>Vor dem Zweiten Weltkrieg</h2>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/55/Europe_1923_map_en.png">
+
+<h3>Europa nach dem Ersten Weltkrieg</h3>
+
+<p>
+
+Nach dem Ersten Weltkrieg wurde 1919 der Versailler Vertrag abgeschlossen.
+
+Deutschland musste hohe Reparationszahlungen leisten,
+
+Gebiete abgeben und seine Armee stark verkleinern.
+
+Viele Menschen empfanden diese Bedingungen als ungerecht.
+
+</p>
+
+<h3>Die Weltwirtschaftskrise</h3>
+
+<p>
+
+1929 begann eine schwere Weltwirtschaftskrise.
+
+Viele Unternehmen gingen bankrott.
+
+Millionen Menschen verloren ihre Arbeit.
+
+Die politische Lage wurde immer instabiler.
+
+</p>
+
+<h3>Der Aufstieg der Nationalsozialisten</h3>
+
+<p>
+
+1933 wurde Adolf Hitler Reichskanzler.
+
+Die Nationalsozialisten errichteten eine Diktatur,
+
+schränkten Grundrechte ein und verfolgten politische Gegner
+
+sowie jüdische Menschen und andere Bevölkerungsgruppen.
+
+</p>
+
+<div class="infobox">
+
+<h3>Warum kam es zum Krieg?</h3>
+
+<ul>
+
+<li>Folgen des Versailler Vertrags</li>
+
+<li>Weltwirtschaftskrise</li>
+
+<li>Nationalsozialistische Diktatur</li>
+
+<li>Aufrüstung Deutschlands</li>
+
+<li>Aggressive Außenpolitik</li>
+
+</ul>
+
+</div>
+
+</section>
+
+<section id="krieg">
+
+<h2>Während des Zweiten Weltkriegs</h2>
+
+<p>
+
+Im nächsten HTML-Teil bauen wir diesen Abschnitt vollständig aus.
+
+Dort kommen:
+
+</p>
+
+<ul>
+
+<li>Angriff auf Polen</li>
+
+<li>Blitzkrieg</li>
+
+<li>Frankreich</li>
+
+<li>Großbritannien</li>
+
+<li>Operation Barbarossa</li>
+
+<li>Pearl Harbor</li>
+
+<li>Stalingrad</li>
+
+<li>D-Day</li>
+
+<li>Kriegsende</li>
+
+<li>Karten</li>
+
+<li>Bilder</li>
+
+</ul>
+
+</section>
+
+</main>
+
+<footer>
+
+<p>Projekt über den Zweiten Weltkrieg</p>
+
+</footer>
+<section id="krieg">
+
+<h2>⚔️ Während des Zweiten Weltkriegs (1939–1945)</h2>
+
+<p>
+Der Zweite Weltkrieg begann am 1. September 1939 mit dem Angriff Deutschlands auf Polen.
+Dies war der Auslöser für einen weltweiten Krieg.
+</p>
+
+<div class="timeline">
+
+<div class="event">
+<h3>1939 – Beginn des Krieges</h3>
+<p>Deutschland greift Polen an. Großbritannien und Frankreich erklären Deutschland den Krieg.</p>
+</div>
+
+<div class="event">
+<h3>1940 – Blitzkrieg in Westeuropa</h3>
+<p>Deutschland besetzt Frankreich, Belgien, die Niederlande und weitere Länder.</p>
+</div>
+
+<div class="event">
+<h3>1941 – Angriff auf die Sowjetunion</h3>
+<p>Operation Barbarossa beginnt. Einer der größten Militärangriffe der Geschichte.</p>
+</div>
+
+<div class="event">
+<h3>1941 – USA treten ein</h3>
+<p>Nach dem Angriff auf Pearl Harbor treten die Vereinigten Staaten in den Krieg ein.</p>
+</div>
+
+<div class="event">
+<h3>1942–1943 – Schlacht von Stalingrad</h3>
+<p>Ein entscheidender Wendepunkt des Krieges. Deutschland verliert erstmals groß.</p>
+</div>
+
+<div class="event">
+<h3>1944 – D-Day</h3>
+<p>Die Alliierten landen in der Normandie und eröffnen eine Westfront in Europa.</p>
+</div>
+
+<div class="event">
+<h3>1945 – Ende des Krieges</h3>
+<p>Deutschland kapituliert am 8. Mai 1945. Der Krieg in Europa endet.</p>
+</div>
+
+</div>
+
+<h3>🗺️ Europa im Krieg</h3>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/WW2_Europe_1941_he.svg">
+
+<div class="infobox">
+
+<h3>📌 Wichtige Folgen im Krieg</h3>
+
+<ul>
+<li>Zerstörung vieler Städte in Europa</li>
+<li>Millionen Tote und Verletzte</li>
+<li>Flucht und Vertreibung von Menschen</li>
+<li>Extrem hohe wirtschaftliche Schäden</li>
+<li>Holocaust und Verbrechen gegen die Menschlichkeit</li>
+</ul>
+
+</div>
+
+</section>
+<section id="holocaust">
+
+<h2>🧠 Der Holocaust</h2>
+
+<p>
+Während der NS-Herrschaft wurden etwa sechs Millionen jüdische Menschen systematisch verfolgt und ermordet.
+Auch Sinti und Roma, Menschen mit Behinderungen, politische Gegner und viele weitere Gruppen wurden Opfer.
+</p>
+
+<p>
+Diese Verbrechen gehören zu den schlimmsten der Geschichte. Heute erinnern Gedenkstätten und Museen an die Opfer.
+</p>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Auschwitz_Birkenau_gate.jpg">
+
+</section>
+
+<section id="nachkrieg">
+
+<h2>🕊️ Nach dem Zweiten Weltkrieg</h2>
+
+<div class="timeline">
+
+<div class="event">
+<h3>1945 – Kriegsende</h3>
+<p>Deutschland kapituliert am 8. Mai 1945. Europa liegt in Trümmern.</p>
+</div>
+
+<div class="event">
+<h3>Besatzungszonen</h3>
+<p>Deutschland wird in vier Zonen aufgeteilt (USA, Großbritannien, Frankreich, Sowjetunion).</p>
+</div>
+
+<div class="event">
+<h3>BRD & DDR</h3>
+<p>1949 entstehen zwei deutsche Staaten: Bundesrepublik Deutschland und DDR.</p>
+</div>
+
+<div class="event">
+<h3>UNO</h3>
+<p>Die Vereinten Nationen werden gegründet, um Frieden weltweit zu sichern.</p>
+</div>
+
+<div class="event">
+<h3>Kalter Krieg</h3>
+<p>Spannungen zwischen USA und Sowjetunion prägen die Nachkriegszeit.</p>
+</div>
+
+</div>
+
+</section>
+
+<section id="folgen">
+
+<h2>🌍 Folgen des Zweiten Weltkriegs</h2>
+
+<div class="grid">
+
+<div class="box">
+<h3>🏚️ Zerstörung</h3>
+<p>Viele Städte in Europa wurden vollständig zerstört.</p>
+</div>
+
+<div class="box">
+<h3>👥 Millionen Tote</h3>
+<p>Der Krieg forderte etwa 60–70 Millionen Menschenleben.</p>
+</div>
+
+<div class="box">
+<h3>🌍 Neue Weltordnung</h3>
+<p>USA und Sowjetunion wurden die neuen Supermächte.</p>
+</div>
+
+<div class="box">
+<h3>⚖️ Nürnberger Prozesse</h3>
+<p>NS-Verbrecher wurden vor Gericht gestellt.</p>
+</div>
+
+</div>
+
+</section>
