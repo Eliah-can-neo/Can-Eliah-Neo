@@ -1,0 +1,196 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizing:border-box;
+  font-family:Arial, sans-serif;
+}
+
+body{
+  background:#0f0f0f;
+  color:#eaeaea;
+  line-height:1.6;
+}
+
+/* HERO BEREICH */
+.hero{
+  height:90vh;
+  background:url("https://upload.wikimedia.org/wikipedia/commons/8/8a/WW2_Europe_1942_map.png");
+  background-size:cover;
+  background-position:center;
+  position:relative;
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  text-align:center;
+}
+
+.overlay{
+  background:rgba(0,0,0,0.7);
+  padding:30px;
+  border-radius:15px;
+}
+
+.hero h1{
+  font-size:3rem;
+  margin-bottom:10px;
+}
+
+.hero p{
+  font-size:1.2rem;
+  margin-bottom:20px;
+}
+
+.button{
+  display:inline-block;
+  padding:12px 20px;
+  background:#e63946;
+  color:white;
+  text-decoration:none;
+  border-radius:8px;
+  transition:0.3s;
+}
+
+.button:hover{
+  background:#ff4d5a;
+  transform:scale(1.05);
+}
+
+/* NAVIGATION */
+nav{
+  position:sticky;
+  top:0;
+  background:#111;
+  display:flex;
+  justify-content:center;
+  flex-wrap:wrap;
+  z-index:1000;
+  border-bottom:1px solid #333;
+}
+
+nav a{
+  color:#fff;
+  padding:15px 18px;
+  text-decoration:none;
+  transition:0.3s;
+}
+
+nav a:hover{
+  background:#e63946;
+}
+
+/* SECTIONS */
+main{
+  padding:20px;
+}
+
+section{
+  max-width:1000px;
+  margin:40px auto;
+  background:#1a1a1a;
+  padding:25px;
+  border-radius:12px;
+  box-shadow:0 0 15px rgba(0,0,0,0.5);
+}
+
+/* Bilder */
+img{
+  width:100%;
+  border-radius:10px;
+  margin:15px 0;
+}
+
+/* Fakten Karten */
+.fakten{
+  display:flex;
+  gap:15px;
+  flex-wrap:wrap;
+  margin-top:20px;
+}
+
+.karte{
+  flex:1;
+  min-width:200px;
+  background:#222;
+  padding:15px;
+  border-radius:10px;
+  text-align:center;
+  transition:0.3s;
+}
+
+.karte:hover{
+  transform:translateY(-5px);
+  background:#2a2a2a;
+}
+
+/* Infobox */
+.infobox{
+  margin-top:20px;
+  padding:15px;
+  background:#222;
+  border-left:4px solid #e63946;
+  border-radius:8px;
+}
+
+/* Footer */
+footer{
+  text-align:center;
+  padding:20px;
+  background:#111;
+  margin-top:40px;
+  border-top:1px solid #333;
+}
+
+/* RESPONSIVE */
+@media(max-width:768px){
+  .hero h1{
+    font-size:2rem;
+  }
+
+  nav a{
+    padding:10px;
+    font-size:0.9rem;
+  }
+}
+/* TIMELINE */
+.timeline{
+  margin-top:20px;
+  border-left:3px solid #e63946;
+  padding-left:20px;
+}
+
+.event{
+  margin-bottom:20px;
+  padding:15px;
+  background:#222;
+  border-radius:10px;
+  transition:0.3s;
+}
+
+.event:hover{
+  transform:translateX(10px);
+  background:#2a2a2a;
+}
+/* GRID für Folgen */
+.grid{
+  display:grid;
+  grid-template-columns:repeat(auto-fit,minmax(220px,1fr));
+  gap:15px;
+  margin-top:20px;
+}
+
+.box{
+  background:#222;
+  padding:15px;
+  border-radius:10px;
+  transition:0.3s;
+}
+
+.box:hover{
+  transform:translateY(-8px);
+  background:#2a2a2a;
+}
+
+/* Timeline Animation Vorbereitung */
+.event{
+  opacity:1;
+}
